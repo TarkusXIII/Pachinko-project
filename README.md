@@ -16,8 +16,9 @@ Mesmo imcompleto, gostaria de deixar ele aqui para continuar trabalhando nele no
 ### 📸 Preview
 <p align="center">
   <img src="https://github.com/user-attachments/assets/15036222-1ad8-42d1-b5ad-043530ff8ea7" width="400" alt="Screenshot do Projeto">
+  
+  https://tarkusxiii.github.io/Pachinko-project/
 </p>
-https://tarkusxiii.github.io/Pachinko-project/
 ---
 
 ### 📖 O que aprendi
