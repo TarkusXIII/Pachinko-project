@@ -3,7 +3,7 @@
 ### 📝 Sobre o Projeto
 Este é o meu primeiro projeto web, desenvolvido para praticar conceitos iniciais de HTML e CSS. A página apresenta uma análise pessoal sobre o livro e a série *Pachinko*, explorando os temas e o impacto dessa obra para mim. Criado como forma de unir o aprendizado técnico ao meu interesse pela literatura e cultura coreana.
 
-O projeto foca na organização de conteúdo, semântica básica e estilização.
+Mesmo imcompleto, gostaria de deixar ele aqui para continuar trabalhando nele no futuro. O projeto foca na organização de conteúdo, semântica básica e estilização.
 
 ---
 
