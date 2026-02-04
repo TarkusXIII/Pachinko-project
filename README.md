@@ -1,2 +1,2 @@
 # Pachinko-project
-Minha página sobre o livro e a série pachinko.
+Primeira página que criei. Tem uma pequena análise sobre o livro e a série pachinko.
